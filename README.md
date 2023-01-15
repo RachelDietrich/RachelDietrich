@@ -6,3 +6,5 @@ Please contact me at r4dietri@uwaterloo.ca to gain access to the following proje
 - FIRST Robotics - Robot Code
 - Homepage Web App
 - Girls Who Code Mental Health Game
+- Biquadris Game
+- Hack the North Project
